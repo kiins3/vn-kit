@@ -129,6 +129,13 @@ class AdminUnitsTest {
     }
 
     @Test
+    void everyWardIsFoundByItsOwnName() {
+      for (Ward w : AdminUnits.wards()) {
+        assertThat(AdminUnits.findWard(w.fullName(), w.province().fullName())).as(w.fullName()).contains(w);
+      }
+    }
+
+    @Test
     void sameNameInAnotherProvince() {
       assertThat(AdminUnits.findWard("Ba Đình", "Thanh Hoá")).get().extracting(Ward::fullName).isEqualTo("Xã Ba Đình");
     }

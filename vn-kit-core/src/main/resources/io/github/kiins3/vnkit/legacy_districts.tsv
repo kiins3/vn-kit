@@ -1,0 +1,698 @@
+# source=tranngocminhhieu/vietnamadminunits@7fac8c4 units before 1 July 2025
+# code	provinceCode	name	fullName	type	newWardCodes
+001	01	Ba Đình	Quận Ba Đình	Quận	
+002	01	Hoàn Kiếm	Quận Hoàn Kiếm	Quận	
+003	01	Tây Hồ	Quận Tây Hồ	Quận	
+004	01	Long Biên	Quận Long Biên	Quận	
+005	01	Cầu Giấy	Quận Cầu Giấy	Quận	
+006	01	Đống Đa	Quận Đống Đa	Quận	
+007	01	Hai Bà Trưng	Quận Hai Bà Trưng	Quận	
+008	01	Hoàng Mai	Quận Hoàng Mai	Quận	
+009	01	Thanh Xuân	Quận Thanh Xuân	Quận	
+016	01	Sóc Sơn	Huyện Sóc Sơn	Huyện	
+017	01	Đông Anh	Huyện Đông Anh	Huyện	
+018	01	Gia Lâm	Huyện Gia Lâm	Huyện	
+019	01	Nam Từ Liêm	Quận Nam Từ Liêm	Quận	
+020	01	Thanh Trì	Huyện Thanh Trì	Huyện	
+021	01	Bắc Từ Liêm	Quận Bắc Từ Liêm	Quận	
+024	02	Hà Giang	Thành phố Hà Giang	Thành phố	
+026	02	Đồng Văn	Huyện Đồng Văn	Huyện	
+027	02	Mèo Vạc	Huyện Mèo Vạc	Huyện	
+028	02	Yên Minh	Huyện Yên Minh	Huyện	
+029	02	Quản Bạ	Huyện Quản Bạ	Huyện	
+030	02	Vị Xuyên	Huyện Vị Xuyên	Huyện	
+031	02	Bắc Mê	Huyện Bắc Mê	Huyện	
+032	02	Hoàng Su Phì	Huyện Hoàng Su Phì	Huyện	
+033	02	Xín Mần	Huyện Xín Mần	Huyện	
+034	02	Bắc Quang	Huyện Bắc Quang	Huyện	
+035	02	Quang Bình	Huyện Quang Bình	Huyện	
+040	04	Cao Bằng	Thành phố Cao Bằng	Thành phố	
+042	04	Bảo Lâm	Huyện Bảo Lâm	Huyện	
+043	04	Bảo Lạc	Huyện Bảo Lạc	Huyện	
+045	04	Hà Quảng	Huyện Hà Quảng	Huyện	
+047	04	Trùng Khánh	Huyện Trùng Khánh	Huyện	
+048	04	Hạ Lang	Huyện Hạ Lang	Huyện	
+049	04	Quảng Hòa	Huyện Quảng Hòa	Huyện	
+051	04	Hòa An	Huyện Hòa An	Huyện	
+052	04	Nguyên Bình	Huyện Nguyên Bình	Huyện	
+053	04	Thạch An	Huyện Thạch An	Huyện	
+058	06	Bắc Kạn	Thành phố Bắc Kạn	Thành phố	
+060	06	Pác Nặm	Huyện Pác Nặm	Huyện	
+061	06	Ba Bể	Huyện Ba Bể	Huyện	
+062	06	Ngân Sơn	Huyện Ngân Sơn	Huyện	
+063	06	Bạch Thông	Huyện Bạch Thông	Huyện	
+064	06	Chợ Đồn	Huyện Chợ Đồn	Huyện	
+065	06	Chợ Mới	Huyện Chợ Mới	Huyện	
+066	06	Na Rì	Huyện Na Rì	Huyện	
+070	08	Tuyên Quang	Thành phố Tuyên Quang	Thành phố	
+071	08	Lâm Bình	Huyện Lâm Bình	Huyện	
+072	08	Na Hang	Huyện Na Hang	Huyện	
+073	08	Chiêm Hóa	Huyện Chiêm Hóa	Huyện	
+074	08	Hàm Yên	Huyện Hàm Yên	Huyện	
+075	08	Yên Sơn	Huyện Yên Sơn	Huyện	
+076	08	Sơn Dương	Huyện Sơn Dương	Huyện	
+080	10	Lào Cai	Thành phố Lào Cai	Thành phố	
+082	10	Bát Xát	Huyện Bát Xát	Huyện	
+083	10	Mường Khương	Huyện Mường Khương	Huyện	
+084	10	Si Ma Cai	Huyện Si Ma Cai	Huyện	
+085	10	Bắc Hà	Huyện Bắc Hà	Huyện	
+086	10	Bảo Thắng	Huyện Bảo Thắng	Huyện	
+087	10	Bảo Yên	Huyện Bảo Yên	Huyện	
+088	10	Sa Pa	Thị xã Sa Pa	Thị xã	
+089	10	Văn Bàn	Huyện Văn Bàn	Huyện	
+094	11	Điện Biên Phủ	Thành phố Điện Biên Phủ	Thành phố	
+095	11	Mường Lay	Thị xã Mường Lay	Thị xã	
+096	11	Mường Nhé	Huyện Mường Nhé	Huyện	
+097	11	Mường Chà	Huyện Mường Chà	Huyện	
+098	11	Tủa Chùa	Huyện Tủa Chùa	Huyện	
+099	11	Tuần Giáo	Huyện Tuần Giáo	Huyện	
+100	11	Điện Biên	Huyện Điện Biên	Huyện	
+101	11	Điện Biên Đông	Huyện Điện Biên Đông	Huyện	
+102	11	Mường Ảng	Huyện Mường Ảng	Huyện	
+103	11	Nậm Pồ	Huyện Nậm Pồ	Huyện	
+105	12	Lai Châu	Thành phố Lai Châu	Thành phố	
+106	12	Tam Đường	Huyện Tam Đường	Huyện	
+107	12	Mường Tè	Huyện Mường Tè	Huyện	
+108	12	Sìn Hồ	Huyện Sìn Hồ	Huyện	
+109	12	Phong Thổ	Huyện Phong Thổ	Huyện	
+110	12	Than Uyên	Huyện Than Uyên	Huyện	
+111	12	Tân Uyên	Huyện Tân Uyên	Huyện	
+112	12	Nậm Nhùn	Huyện Nậm Nhùn	Huyện	
+116	14	Sơn La	Thành phố Sơn La	Thành phố	
+118	14	Quỳnh Nhai	Huyện Quỳnh Nhai	Huyện	
+119	14	Thuận Châu	Huyện Thuận Châu	Huyện	
+120	14	Mường La	Huyện Mường La	Huyện	
+121	14	Bắc Yên	Huyện Bắc Yên	Huyện	
+122	14	Phù Yên	Huyện Phù Yên	Huyện	
+123	14	Mộc Châu	Thị xã Mộc Châu	Thị xã	
+124	14	Yên Châu	Huyện Yên Châu	Huyện	
+125	14	Mai Sơn	Huyện Mai Sơn	Huyện	
+126	14	Sông Mã	Huyện Sông Mã	Huyện	
+127	14	Sốp Cộp	Huyện Sốp Cộp	Huyện	
+128	14	Vân Hồ	Huyện Vân Hồ	Huyện	
+132	15	Yên Bái	Thành phố Yên Bái	Thành phố	
+133	15	Nghĩa Lộ	Thị xã Nghĩa Lộ	Thị xã	
+135	15	Lục Yên	Huyện Lục Yên	Huyện	
+136	15	Văn Yên	Huyện Văn Yên	Huyện	
+137	15	Mù Căng Chải	Huyện Mù Căng Chải	Huyện	
+138	15	Trấn Yên	Huyện Trấn Yên	Huyện	
+139	15	Trạm Tấu	Huyện Trạm Tấu	Huyện	
+140	15	Văn Chấn	Huyện Văn Chấn	Huyện	
+141	15	Yên Bình	Huyện Yên Bình	Huyện	
+148	17	Hòa Bình	Thành phố Hòa Bình	Thành phố	
+150	17	Đà Bắc	Huyện Đà Bắc	Huyện	
+152	17	Lương Sơn	Huyện Lương Sơn	Huyện	
+153	17	Kim Bôi	Huyện Kim Bôi	Huyện	
+154	17	Cao Phong	Huyện Cao Phong	Huyện	
+155	17	Tân Lạc	Huyện Tân Lạc	Huyện	
+156	17	Mai Châu	Huyện Mai Châu	Huyện	
+157	17	Lạc Sơn	Huyện Lạc Sơn	Huyện	
+158	17	Yên Thủy	Huyện Yên Thủy	Huyện	
+159	17	Lạc Thủy	Huyện Lạc Thủy	Huyện	
+164	19	Thái Nguyên	Thành phố Thái Nguyên	Thành phố	
+165	19	Sông Công	Thành phố Sông Công	Thành phố	
+167	19	Định Hóa	Huyện Định Hóa	Huyện	
+168	19	Phú Lương	Huyện Phú Lương	Huyện	
+169	19	Đồng Hỷ	Huyện Đồng Hỷ	Huyện	
+170	19	Võ Nhai	Huyện Võ Nhai	Huyện	
+171	19	Đại Từ	Huyện Đại Từ	Huyện	
+172	19	Phổ Yên	Thành phố Phổ Yên	Thành phố	
+173	19	Phú Bình	Huyện Phú Bình	Huyện	
+178	20	Lạng Sơn	Thành phố Lạng Sơn	Thành phố	
+180	20	Tràng Định	Huyện Tràng Định	Huyện	
+181	20	Bình Gia	Huyện Bình Gia	Huyện	
+182	20	Văn Lãng	Huyện Văn Lãng	Huyện	
+183	20	Cao Lộc	Huyện Cao Lộc	Huyện	
+184	20	Văn Quan	Huyện Văn Quan	Huyện	
+185	20	Bắc Sơn	Huyện Bắc Sơn	Huyện	
+186	20	Hữu Lũng	Huyện Hữu Lũng	Huyện	
+187	20	Chi Lăng	Huyện Chi Lăng	Huyện	
+188	20	Lộc Bình	Huyện Lộc Bình	Huyện	
+189	20	Đình Lập	Huyện Đình Lập	Huyện	
+193	22	Hạ Long	Thành phố Hạ Long	Thành phố	
+194	22	Móng Cái	Thành phố Móng Cái	Thành phố	
+195	22	Cẩm Phả	Thành phố Cẩm Phả	Thành phố	
+196	22	Uông Bí	Thành phố Uông Bí	Thành phố	
+198	22	Bình Liêu	Huyện Bình Liêu	Huyện	
+199	22	Tiên Yên	Huyện Tiên Yên	Huyện	
+200	22	Đầm Hà	Huyện Đầm Hà	Huyện	
+201	22	Hải Hà	Huyện Hải Hà	Huyện	
+202	22	Ba Chẽ	Huyện Ba Chẽ	Huyện	
+203	22	Vân Đồn	Huyện Vân Đồn	Huyện	
+205	22	Đông Triều	Thành phố Đông Triều	Thành phố	
+206	22	Quảng Yên	Thị xã Quảng Yên	Thị xã	
+207	22	Cô Tô	Huyện Cô Tô	Huyện	
+213	24	Bắc Giang	Thành phố Bắc Giang	Thành phố	
+215	24	Yên Thế	Huyện Yên Thế	Huyện	
+216	24	Tân Yên	Huyện Tân Yên	Huyện	
+217	24	Lạng Giang	Huyện Lạng Giang	Huyện	
+218	24	Lục Nam	Huyện Lục Nam	Huyện	
+219	24	Lục Ngạn	Huyện Lục Ngạn	Huyện	
+220	24	Sơn Động	Huyện Sơn Động	Huyện	
+222	24	Việt Yên	Thị xã Việt Yên	Thị xã	
+223	24	Hiệp Hòa	Huyện Hiệp Hòa	Huyện	
+224	24	Chũ	Thị xã Chũ	Thị xã	
+227	25	Việt Trì	Thành phố Việt Trì	Thành phố	
+228	25	Phú Thọ	Thị xã Phú Thọ	Thị xã	
+230	25	Đoan Hùng	Huyện Đoan Hùng	Huyện	
+231	25	Hạ Hòa	Huyện Hạ Hòa	Huyện	
+232	25	Thanh Ba	Huyện Thanh Ba	Huyện	
+233	25	Phù Ninh	Huyện Phù Ninh	Huyện	
+234	25	Yên Lập	Huyện Yên Lập	Huyện	
+235	25	Cẩm Khê	Huyện Cẩm Khê	Huyện	
+236	25	Tam Nông	Huyện Tam Nông	Huyện	
+237	25	Lâm Thao	Huyện Lâm Thao	Huyện	
+238	25	Thanh Sơn	Huyện Thanh Sơn	Huyện	
+239	25	Thanh Thủy	Huyện Thanh Thủy	Huyện	
+240	25	Tân Sơn	Huyện Tân Sơn	Huyện	
+243	26	Vĩnh Yên	Thành phố Vĩnh Yên	Thành phố	
+244	26	Phúc Yên	Thành phố Phúc Yên	Thành phố	
+246	26	Lập Thạch	Huyện Lập Thạch	Huyện	
+247	26	Tam Dương	Huyện Tam Dương	Huyện	
+248	26	Tam Đảo	Huyện Tam Đảo	Huyện	
+249	26	Bình Xuyên	Huyện Bình Xuyên	Huyện	
+250	01	Mê Linh	Huyện Mê Linh	Huyện	
+251	26	Yên Lạc	Huyện Yên Lạc	Huyện	
+252	26	Vĩnh Tường	Huyện Vĩnh Tường	Huyện	
+253	26	Sông Lô	Huyện Sông Lô	Huyện	
+256	27	Bắc Ninh	Thành phố Bắc Ninh	Thành phố	
+258	27	Yên Phong	Huyện Yên Phong	Huyện	
+259	27	Quế Võ	Thị xã Quế Võ	Thị xã	
+260	27	Tiên Du	Huyện Tiên Du	Huyện	
+261	27	Từ Sơn	Thành phố Từ Sơn	Thành phố	
+262	27	Thuận Thành	Thị xã Thuận Thành	Thị xã	
+263	27	Gia Bình	Huyện Gia Bình	Huyện	
+264	27	Lương Tài	Huyện Lương Tài	Huyện	
+268	01	Hà Đông	Quận Hà Đông	Quận	
+269	01	Sơn Tây	Thị xã Sơn Tây	Thị xã	
+271	01	Ba Vì	Huyện Ba Vì	Huyện	
+272	01	Phúc Thọ	Huyện Phúc Thọ	Huyện	
+273	01	Đan Phượng	Huyện Đan Phượng	Huyện	
+274	01	Hoài Đức	Huyện Hoài Đức	Huyện	
+275	01	Quốc Oai	Huyện Quốc Oai	Huyện	
+276	01	Thạch Thất	Huyện Thạch Thất	Huyện	
+277	01	Chương Mỹ	Huyện Chương Mỹ	Huyện	
+278	01	Thanh Oai	Huyện Thanh Oai	Huyện	
+279	01	Thường Tín	Huyện Thường Tín	Huyện	
+280	01	Phú Xuyên	Huyện Phú Xuyên	Huyện	
+281	01	Ứng Hòa	Huyện Ứng Hòa	Huyện	
+282	01	Mỹ Đức	Huyện Mỹ Đức	Huyện	
+288	30	Hải Dương	Thành phố Hải Dương	Thành phố	
+290	30	Chí Linh	Thành phố Chí Linh	Thành phố	
+291	30	Nam Sách	Huyện Nam Sách	Huyện	
+292	30	Kinh Môn	Thị xã Kinh Môn	Thị xã	
+293	30	Kim Thành	Huyện Kim Thành	Huyện	
+294	30	Thanh Hà	Huyện Thanh Hà	Huyện	
+295	30	Cẩm Giàng	Huyện Cẩm Giàng	Huyện	
+296	30	Bình Giang	Huyện Bình Giang	Huyện	
+297	30	Gia Lộc	Huyện Gia Lộc	Huyện	
+298	30	Tứ Kỳ	Huyện Tứ Kỳ	Huyện	
+299	30	Ninh Giang	Huyện Ninh Giang	Huyện	
+300	30	Thanh Miện	Huyện Thanh Miện	Huyện	
+303	31	Hồng Bàng	Quận Hồng Bàng	Quận	
+304	31	Ngô Quyền	Quận Ngô Quyền	Quận	
+305	31	Lê Chân	Quận Lê Chân	Quận	
+306	31	Hải An	Quận Hải An	Quận	
+307	31	Kiến An	Quận Kiến An	Quận	
+308	31	Đồ Sơn	Quận Đồ Sơn	Quận	
+309	31	Dương Kinh	Quận Dương Kinh	Quận	
+311	31	Thủy Nguyên	Thành phố Thủy Nguyên	Thành phố	
+312	31	An Dương	Quận An Dương	Quận	
+313	31	An Lão	Huyện An Lão	Huyện	
+314	31	Kiến Thụy	Huyện Kiến Thụy	Huyện	
+315	31	Tiên Lãng	Huyện Tiên Lãng	Huyện	
+316	31	Vĩnh Bảo	Huyện Vĩnh Bảo	Huyện	
+317	31	Cát Hải	Huyện Cát Hải	Huyện	
+318	31	Bạch Long Vĩ	Huyện Bạch Long Vĩ	Huyện	11948
+323	33	Hưng Yên	Thành phố Hưng Yên	Thành phố	
+325	33	Văn Lâm	Huyện Văn Lâm	Huyện	
+326	33	Văn Giang	Huyện Văn Giang	Huyện	
+327	33	Yên Mỹ	Huyện Yên Mỹ	Huyện	
+328	33	Mỹ Hào	Thị xã Mỹ Hào	Thị xã	
+329	33	Ân Thi	Huyện Ân Thi	Huyện	
+330	33	Khoái Châu	Huyện Khoái Châu	Huyện	
+331	33	Kim Động	Huyện Kim Động	Huyện	
+332	33	Tiên Lữ	Huyện Tiên Lữ	Huyện	
+333	33	Phù Cừ	Huyện Phù Cừ	Huyện	
+336	34	Thái Bình	Thành phố Thái Bình	Thành phố	
+338	34	Quỳnh Phụ	Huyện Quỳnh Phụ	Huyện	
+339	34	Hưng Hà	Huyện Hưng Hà	Huyện	
+340	34	Đông Hưng	Huyện Đông Hưng	Huyện	
+341	34	Thái Thụy	Huyện Thái Thụy	Huyện	
+342	34	Tiền Hải	Huyện Tiền Hải	Huyện	
+343	34	Kiến Xương	Huyện Kiến Xương	Huyện	
+344	34	Vũ Thư	Huyện Vũ Thư	Huyện	
+347	35	Phủ Lý	Thành phố Phủ Lý	Thành phố	
+349	35	Duy Tiên	Thị xã Duy Tiên	Thị xã	
+350	35	Kim Bảng	Thị xã Kim Bảng	Thị xã	
+351	35	Thanh Liêm	Huyện Thanh Liêm	Huyện	
+352	35	Bình Lục	Huyện Bình Lục	Huyện	
+353	35	Lý Nhân	Huyện Lý Nhân	Huyện	
+356	36	Nam Định	Thành phố Nam Định	Thành phố	
+359	36	Vụ Bản	Huyện Vụ Bản	Huyện	
+360	36	Ý Yên	Huyện Ý Yên	Huyện	
+361	36	Nghĩa Hưng	Huyện Nghĩa Hưng	Huyện	
+362	36	Nam Trực	Huyện Nam Trực	Huyện	
+363	36	Trực Ninh	Huyện Trực Ninh	Huyện	
+364	36	Xuân Trường	Huyện Xuân Trường	Huyện	
+365	36	Giao Thủy	Huyện Giao Thủy	Huyện	
+366	36	Hải Hậu	Huyện Hải Hậu	Huyện	
+370	37	Tam Điệp	Thành phố Tam Điệp	Thành phố	
+372	37	Nho Quan	Huyện Nho Quan	Huyện	
+373	37	Gia Viễn	Huyện Gia Viễn	Huyện	
+374	37	Hoa Lư	Thành phố Hoa Lư	Thành phố	
+375	37	Yên Khánh	Huyện Yên Khánh	Huyện	
+376	37	Kim Sơn	Huyện Kim Sơn	Huyện	
+377	37	Yên Mô	Huyện Yên Mô	Huyện	
+380	38	Thanh Hóa	Thành phố Thanh Hóa	Thành phố	
+381	38	Bỉm Sơn	Thị xã Bỉm Sơn	Thị xã	
+382	38	Sầm Sơn	Thành phố Sầm Sơn	Thành phố	
+384	38	Mường Lát	Huyện Mường Lát	Huyện	
+385	38	Quan Hóa	Huyện Quan Hóa	Huyện	
+386	38	Bá Thước	Huyện Bá Thước	Huyện	
+387	38	Quan Sơn	Huyện Quan Sơn	Huyện	
+388	38	Lang Chánh	Huyện Lang Chánh	Huyện	
+389	38	Ngọc Lặc	Huyện Ngọc Lặc	Huyện	
+390	38	Cẩm Thủy	Huyện Cẩm Thủy	Huyện	
+391	38	Thạch Thành	Huyện Thạch Thành	Huyện	
+392	38	Hà Trung	Huyện Hà Trung	Huyện	
+393	38	Vĩnh Lộc	Huyện Vĩnh Lộc	Huyện	
+394	38	Yên Định	Huyện Yên Định	Huyện	
+395	38	Thọ Xuân	Huyện Thọ Xuân	Huyện	
+396	38	Thường Xuân	Huyện Thường Xuân	Huyện	
+397	38	Triệu Sơn	Huyện Triệu Sơn	Huyện	
+398	38	Thiệu Hóa	Huyện Thiệu Hóa	Huyện	
+399	38	Hoằng Hóa	Huyện Hoằng Hóa	Huyện	
+400	38	Hậu Lộc	Huyện Hậu Lộc	Huyện	
+401	38	Nga Sơn	Huyện Nga Sơn	Huyện	
+402	38	Như Xuân	Huyện Như Xuân	Huyện	
+403	38	Như Thanh	Huyện Như Thanh	Huyện	
+404	38	Nông Cống	Huyện Nông Cống	Huyện	
+406	38	Quảng Xương	Huyện Quảng Xương	Huyện	
+407	38	Nghi Sơn	Thị xã Nghi Sơn	Thị xã	
+412	40	Vinh	Thành phố Vinh	Thành phố	
+414	40	Thái Hòa	Thị xã Thái Hòa	Thị xã	
+415	40	Quế Phong	Huyện Quế Phong	Huyện	
+416	40	Quỳ Châu	Huyện Quỳ Châu	Huyện	
+417	40	Kỳ Sơn	Huyện Kỳ Sơn	Huyện	
+418	40	Tương Dương	Huyện Tương Dương	Huyện	
+419	40	Nghĩa Đàn	Huyện Nghĩa Đàn	Huyện	
+420	40	Quỳ Hợp	Huyện Quỳ Hợp	Huyện	
+421	40	Quỳnh Lưu	Huyện Quỳnh Lưu	Huyện	
+422	40	Con Cuông	Huyện Con Cuông	Huyện	
+423	40	Tân Kỳ	Huyện Tân Kỳ	Huyện	
+424	40	Anh Sơn	Huyện Anh Sơn	Huyện	
+425	40	Diễn Châu	Huyện Diễn Châu	Huyện	
+426	40	Yên Thành	Huyện Yên Thành	Huyện	
+427	40	Đô Lương	Huyện Đô Lương	Huyện	
+428	40	Thanh Chương	Huyện Thanh Chương	Huyện	
+429	40	Nghi Lộc	Huyện Nghi Lộc	Huyện	
+430	40	Nam Đàn	Huyện Nam Đàn	Huyện	
+431	40	Hưng Nguyên	Huyện Hưng Nguyên	Huyện	
+432	40	Hoàng Mai	Thị xã Hoàng Mai	Thị xã	
+436	42	Hà Tĩnh	Thành phố Hà Tĩnh	Thành phố	
+437	42	Hồng Lĩnh	Thị xã Hồng Lĩnh	Thị xã	
+439	42	Hương Sơn	Huyện Hương Sơn	Huyện	
+440	42	Đức Thọ	Huyện Đức Thọ	Huyện	
+441	42	Vũ Quang	Huyện Vũ Quang	Huyện	
+442	42	Nghi Xuân	Huyện Nghi Xuân	Huyện	
+443	42	Can Lộc	Huyện Can Lộc	Huyện	
+444	42	Hương Khê	Huyện Hương Khê	Huyện	
+445	42	Thạch Hà	Huyện Thạch Hà	Huyện	
+446	42	Cẩm Xuyên	Huyện Cẩm Xuyên	Huyện	
+447	42	Kỳ Anh	Huyện Kỳ Anh	Huyện	
+449	42	Kỳ Anh	Thị xã Kỳ Anh	Thị xã	
+450	44	Đồng Hới	Thành phố Đồng Hới	Thành phố	
+452	44	Minh Hóa	Huyện Minh Hóa	Huyện	
+453	44	Tuyên Hóa	Huyện Tuyên Hóa	Huyện	
+454	44	Quảng Trạch	Huyện Quảng Trạch	Huyện	
+455	44	Bố Trạch	Huyện Bố Trạch	Huyện	
+456	44	Quảng Ninh	Huyện Quảng Ninh	Huyện	
+457	44	Lệ Thủy	Huyện Lệ Thủy	Huyện	
+458	44	Ba Đồn	Thị xã Ba Đồn	Thị xã	
+461	45	Đông Hà	Thành phố Đông Hà	Thành phố	
+462	45	Quảng Trị	Thị xã Quảng Trị	Thị xã	
+464	45	Vĩnh Linh	Huyện Vĩnh Linh	Huyện	
+465	45	Hướng Hóa	Huyện Hướng Hóa	Huyện	
+466	45	Gio Linh	Huyện Gio Linh	Huyện	
+467	45	Đa Krông	Huyện Đa Krông	Huyện	
+468	45	Cam Lộ	Huyện Cam Lộ	Huyện	
+469	45	Triệu Phong	Huyện Triệu Phong	Huyện	
+470	45	Hải Lăng	Huyện Hải Lăng	Huyện	
+471	45	Cồn Cỏ	Huyện Cồn Cỏ	Huyện	19742
+474	46	Thuận Hóa	Quận Thuận Hóa	Quận	
+475	46	Phú Xuân	Quận Phú Xuân	Quận	
+476	46	Phong Điền	Thị xã Phong Điền	Thị xã	
+477	46	Quảng Điền	Huyện Quảng Điền	Huyện	
+478	46	Phú Vang	Huyện Phú Vang	Huyện	
+479	46	Hương Thủy	Thị xã Hương Thủy	Thị xã	
+480	46	Hương Trà	Thị xã Hương Trà	Thị xã	
+481	46	A Lưới	Huyện A Lưới	Huyện	
+482	46	Phú Lộc	Huyện Phú Lộc	Huyện	
+490	48	Liên Chiểu	Quận Liên Chiểu	Quận	
+491	48	Thanh Khê	Quận Thanh Khê	Quận	
+492	48	Hải Châu	Quận Hải Châu	Quận	
+493	48	Sơn Trà	Quận Sơn Trà	Quận	
+494	48	Ngũ Hành Sơn	Quận Ngũ Hành Sơn	Quận	
+495	48	Cẩm Lệ	Quận Cẩm Lệ	Quận	
+497	48	Hòa Vang	Huyện Hòa Vang	Huyện	
+498	48	Hoàng Sa	Huyện Hoàng Sa	Huyện	20333
+502	49	Tam Kỳ	Thành phố Tam Kỳ	Thành phố	
+503	49	Hội An	Thành phố Hội An	Thành phố	
+504	49	Tây Giang	Huyện Tây Giang	Huyện	
+505	49	Đông Giang	Huyện Đông Giang	Huyện	
+506	49	Đại Lộc	Huyện Đại Lộc	Huyện	
+507	49	Điện Bàn	Thị xã Điện Bàn	Thị xã	
+508	49	Duy Xuyên	Huyện Duy Xuyên	Huyện	
+509	49	Quế Sơn	Huyện Quế Sơn	Huyện	
+510	49	Nam Giang	Huyện Nam Giang	Huyện	
+511	49	Phước Sơn	Huyện Phước Sơn	Huyện	
+512	49	Hiệp Đức	Huyện Hiệp Đức	Huyện	
+513	49	Thăng Bình	Huyện Thăng Bình	Huyện	
+514	49	Tiên Phước	Huyện Tiên Phước	Huyện	
+515	49	Bắc Trà My	Huyện Bắc Trà My	Huyện	
+516	49	Nam Trà My	Huyện Nam Trà My	Huyện	
+517	49	Núi Thành	Huyện Núi Thành	Huyện	
+518	49	Phú Ninh	Huyện Phú Ninh	Huyện	
+522	51	Quảng Ngãi	Thành phố Quảng Ngãi	Thành phố	
+524	51	Bình Sơn	Huyện Bình Sơn	Huyện	
+525	51	Trà Bồng	Huyện Trà Bồng	Huyện	
+527	51	Sơn Tịnh	Huyện Sơn Tịnh	Huyện	
+528	51	Tư Nghĩa	Huyện Tư Nghĩa	Huyện	
+529	51	Sơn Hà	Huyện Sơn Hà	Huyện	
+530	51	Sơn Tây	Huyện Sơn Tây	Huyện	
+531	51	Minh Long	Huyện Minh Long	Huyện	
+532	51	Nghĩa Hành	Huyện Nghĩa Hành	Huyện	
+533	51	Mộ Đức	Huyện Mộ Đức	Huyện	
+534	51	Đức Phổ	Thị xã Đức Phổ	Thị xã	
+535	51	Ba Tơ	Huyện Ba Tơ	Huyện	
+536	51	Lý Sơn	Huyện Lý Sơn	Huyện	21548
+540	52	Quy Nhơn	Thành phố Quy Nhơn	Thành phố	
+542	52	An Lão	Huyện An Lão	Huyện	
+543	52	Hoài Nhơn	Thị xã Hoài Nhơn	Thị xã	
+544	52	Hoài Ân	Huyện Hoài Ân	Huyện	
+545	52	Phù Mỹ	Huyện Phù Mỹ	Huyện	
+546	52	Vĩnh Thạnh	Huyện Vĩnh Thạnh	Huyện	
+547	52	Tây Sơn	Huyện Tây Sơn	Huyện	
+548	52	Phù Cát	Huyện Phù Cát	Huyện	
+549	52	An Nhơn	Thị xã An Nhơn	Thị xã	
+550	52	Tuy Phước	Huyện Tuy Phước	Huyện	
+551	52	Vân Canh	Huyện Vân Canh	Huyện	
+555	54	Tuy Hòa	Thành phố Tuy Hòa	Thành phố	
+557	54	Sông Cầu	Thị xã Sông Cầu	Thị xã	
+558	54	Đồng Xuân	Huyện Đồng Xuân	Huyện	
+559	54	Tuy An	Huyện Tuy An	Huyện	
+560	54	Sơn Hòa	Huyện Sơn Hòa	Huyện	
+561	54	Sông Hinh	Huyện Sông Hinh	Huyện	
+562	54	Tây Hòa	Huyện Tây Hòa	Huyện	
+563	54	Phú Hòa	Huyện Phú Hòa	Huyện	
+564	54	Đông Hòa	Thị xã Đông Hòa	Thị xã	
+568	56	Nha Trang	Thành phố Nha Trang	Thành phố	
+569	56	Cam Ranh	Thành phố Cam Ranh	Thành phố	
+570	56	Cam Lâm	Huyện Cam Lâm	Huyện	
+571	56	Vạn Ninh	Huyện Vạn Ninh	Huyện	
+572	56	Ninh Hòa	Thị xã Ninh Hòa	Thị xã	
+573	56	Khánh Vĩnh	Huyện Khánh Vĩnh	Huyện	
+574	56	Diên Khánh	Huyện Diên Khánh	Huyện	
+575	56	Khánh Sơn	Huyện Khánh Sơn	Huyện	
+576	56	Trường Sa	Huyện Trường Sa	Huyện	
+582	58	Phan Rang - Tháp Chàm	Thành phố Phan Rang - Tháp Chàm	Thành phố	
+584	58	Bác Ái	Huyện Bác Ái	Huyện	
+585	58	Ninh Sơn	Huyện Ninh Sơn	Huyện	
+586	58	Ninh Hải	Huyện Ninh Hải	Huyện	
+587	58	Ninh Phước	Huyện Ninh Phước	Huyện	
+588	58	Thuận Bắc	Huyện Thuận Bắc	Huyện	
+589	58	Thuận Nam	Huyện Thuận Nam	Huyện	
+593	60	Phan Thiết	Thành phố Phan Thiết	Thành phố	
+594	60	La Gi	Thị xã La Gi	Thị xã	
+595	60	Tuy Phong	Huyện Tuy Phong	Huyện	
+596	60	Bắc Bình	Huyện Bắc Bình	Huyện	
+597	60	Hàm Thuận Bắc	Huyện Hàm Thuận Bắc	Huyện	
+598	60	Hàm Thuận Nam	Huyện Hàm Thuận Nam	Huyện	
+599	60	Tánh Linh	Huyện Tánh Linh	Huyện	
+600	60	Đức Linh	Huyện Đức Linh	Huyện	
+601	60	Hàm Tân	Huyện Hàm Tân	Huyện	
+602	60	Phú Quí	Huyện Phú Quí	Huyện	
+608	62	Kon Tum	Thành phố Kon Tum	Thành phố	
+610	62	Đắk Glei	Huyện Đắk Glei	Huyện	
+611	62	Ngọc Hồi	Huyện Ngọc Hồi	Huyện	
+612	62	Đắk Tô	Huyện Đắk Tô	Huyện	
+613	62	Kon Plông	Huyện Kon Plông	Huyện	
+614	62	Kon Rẫy	Huyện Kon Rẫy	Huyện	
+615	62	Đăk Hà	Huyện Đăk Hà	Huyện	
+616	62	Sa Thầy	Huyện Sa Thầy	Huyện	
+617	62	Tu Mơ Rông	Huyện Tu Mơ Rông	Huyện	
+618	62	Ia H'Drai	Huyện Ia H'Drai	Huyện	
+622	64	Pleiku	Thành phố Pleiku	Thành phố	
+623	64	An Khê	Thị xã An Khê	Thị xã	
+624	64	Ayun Pa	Thị xã Ayun Pa	Thị xã	
+625	64	KBang	Huyện KBang	Huyện	
+626	64	Đak Đoa	Huyện Đak Đoa	Huyện	
+627	64	Chư Păh	Huyện Chư Păh	Huyện	
+628	64	Ia Grai	Huyện Ia Grai	Huyện	
+629	64	Mang Yang	Huyện Mang Yang	Huyện	
+630	64	Kông Chro	Huyện Kông Chro	Huyện	
+631	64	Đức Cơ	Huyện Đức Cơ	Huyện	
+632	64	Chư Prông	Huyện Chư Prông	Huyện	
+633	64	Chư Sê	Huyện Chư Sê	Huyện	
+634	64	Đăk Pơ	Huyện Đăk Pơ	Huyện	
+635	64	Ia Pa	Huyện Ia Pa	Huyện	
+637	64	Krông Pa	Huyện Krông Pa	Huyện	
+638	64	Phú Thiện	Huyện Phú Thiện	Huyện	
+639	64	Chư Pưh	Huyện Chư Pưh	Huyện	
+643	66	Buôn Ma Thuột	Thành phố Buôn Ma Thuột	Thành phố	
+644	66	Buôn Hồ	Thị xã Buôn Hồ	Thị xã	
+645	66	Ea H'leo	Huyện Ea H'leo	Huyện	
+646	66	Ea Súp	Huyện Ea Súp	Huyện	
+647	66	Buôn Đôn	Huyện Buôn Đôn	Huyện	
+648	66	Cư M'gar	Huyện Cư M'gar	Huyện	
+649	66	Krông Búk	Huyện Krông Búk	Huyện	
+650	66	Krông Năng	Huyện Krông Năng	Huyện	
+651	66	Ea Kar	Huyện Ea Kar	Huyện	
+652	66	M'Đrắk	Huyện M'Đrắk	Huyện	
+653	66	Krông Bông	Huyện Krông Bông	Huyện	
+654	66	Krông Pắc	Huyện Krông Pắc	Huyện	
+655	66	Krông A Na	Huyện Krông A Na	Huyện	
+656	66	Lắk	Huyện Lắk	Huyện	
+657	66	Cư Kuin	Huyện Cư Kuin	Huyện	
+660	67	Gia Nghĩa	Thành phố Gia Nghĩa	Thành phố	
+661	67	Đăk Glong	Huyện Đăk Glong	Huyện	
+662	67	Cư Jút	Huyện Cư Jút	Huyện	
+663	67	Đắk Mil	Huyện Đắk Mil	Huyện	
+664	67	Krông Nô	Huyện Krông Nô	Huyện	
+665	67	Đắk Song	Huyện Đắk Song	Huyện	
+666	67	Đắk R'Lấp	Huyện Đắk R'Lấp	Huyện	
+667	67	Tuy Đức	Huyện Tuy Đức	Huyện	
+672	68	Đà Lạt	Thành phố Đà Lạt	Thành phố	
+673	68	Bảo Lộc	Thành phố Bảo Lộc	Thành phố	
+674	68	Đam Rông	Huyện Đam Rông	Huyện	
+675	68	Lạc Dương	Huyện Lạc Dương	Huyện	
+676	68	Lâm Hà	Huyện Lâm Hà	Huyện	
+677	68	Đơn Dương	Huyện Đơn Dương	Huyện	
+678	68	Đức Trọng	Huyện Đức Trọng	Huyện	
+679	68	Di Linh	Huyện Di Linh	Huyện	
+680	68	Bảo Lâm	Huyện Bảo Lâm	Huyện	
+682	68	Đạ Huoai	Huyện Đạ Huoai	Huyện	
+688	70	Phước Long	Thị xã Phước Long	Thị xã	
+689	70	Đồng Xoài	Thành phố Đồng Xoài	Thành phố	
+690	70	Bình Long	Thị xã Bình Long	Thị xã	
+691	70	Bù Gia Mập	Huyện Bù Gia Mập	Huyện	
+692	70	Lộc Ninh	Huyện Lộc Ninh	Huyện	
+693	70	Bù Đốp	Huyện Bù Đốp	Huyện	
+694	70	Hớn Quản	Huyện Hớn Quản	Huyện	
+695	70	Đồng Phú	Huyện Đồng Phú	Huyện	
+696	70	Bù Đăng	Huyện Bù Đăng	Huyện	
+697	70	Chơn Thành	Thị xã Chơn Thành	Thị xã	
+698	70	Phú Riềng	Huyện Phú Riềng	Huyện	
+703	72	Tây Ninh	Thành phố Tây Ninh	Thành phố	
+705	72	Tân Biên	Huyện Tân Biên	Huyện	
+706	72	Tân Châu	Huyện Tân Châu	Huyện	
+707	72	Dương Minh Châu	Huyện Dương Minh Châu	Huyện	
+708	72	Châu Thành	Huyện Châu Thành	Huyện	
+709	72	Hòa Thành	Thị xã Hòa Thành	Thị xã	
+710	72	Gò Dầu	Huyện Gò Dầu	Huyện	
+711	72	Bến Cầu	Huyện Bến Cầu	Huyện	
+712	72	Trảng Bàng	Thị xã Trảng Bàng	Thị xã	
+718	74	Thủ Dầu Một	Thành phố Thủ Dầu Một	Thành phố	
+719	74	Bàu Bàng	Huyện Bàu Bàng	Huyện	
+720	74	Dầu Tiếng	Huyện Dầu Tiếng	Huyện	
+721	74	Bến Cát	Thành phố Bến Cát	Thành phố	
+722	74	Phú Giáo	Huyện Phú Giáo	Huyện	
+723	74	Tân Uyên	Thành phố Tân Uyên	Thành phố	
+724	74	Dĩ An	Thành phố Dĩ An	Thành phố	
+725	74	Thuận An	Thành phố Thuận An	Thành phố	
+726	74	Bắc Tân Uyên	Huyện Bắc Tân Uyên	Huyện	
+731	75	Biên Hòa	Thành phố Biên Hòa	Thành phố	
+732	75	Long Khánh	Thành phố Long Khánh	Thành phố	
+734	75	Tân Phú	Huyện Tân Phú	Huyện	
+735	75	Vĩnh Cửu	Huyện Vĩnh Cửu	Huyện	
+736	75	Định Quán	Huyện Định Quán	Huyện	
+737	75	Trảng Bom	Huyện Trảng Bom	Huyện	
+738	75	Thống Nhất	Huyện Thống Nhất	Huyện	
+739	75	Cẩm Mỹ	Huyện Cẩm Mỹ	Huyện	
+740	75	Long Thành	Huyện Long Thành	Huyện	
+741	75	Xuân Lộc	Huyện Xuân Lộc	Huyện	
+742	75	Nhơn Trạch	Huyện Nhơn Trạch	Huyện	
+747	77	Vũng Tàu	Thành phố Vũng Tàu	Thành phố	
+748	77	Bà Rịa	Thành phố Bà Rịa	Thành phố	
+750	77	Châu Đức	Huyện Châu Đức	Huyện	
+751	77	Xuyên Mộc	Huyện Xuyên Mộc	Huyện	
+753	77	Long Đất	Huyện Long Đất	Huyện	
+754	77	Phú Mỹ	Thành phố Phú Mỹ	Thành phố	
+755	77	Côn Đảo	Huyện Côn Đảo	Huyện	26732
+760	79	1	Quận 1	Quận	
+761	79	12	Quận 12	Quận	
+764	79	Gò Vấp	Quận Gò Vấp	Quận	
+765	79	Bình Thạnh	Quận Bình Thạnh	Quận	
+766	79	Tân Bình	Quận Tân Bình	Quận	
+767	79	Tân Phú	Quận Tân Phú	Quận	
+768	79	Phú Nhuận	Quận Phú Nhuận	Quận	
+769	79	Thủ Đức	Thành phố Thủ Đức	Thành phố	
+770	79	3	Quận 3	Quận	
+771	79	10	Quận 10	Quận	
+772	79	11	Quận 11	Quận	
+773	79	4	Quận 4	Quận	
+774	79	5	Quận 5	Quận	
+775	79	6	Quận 6	Quận	
+776	79	8	Quận 8	Quận	
+777	79	Bình Tân	Quận Bình Tân	Quận	
+778	79	7	Quận 7	Quận	
+783	79	Củ Chi	Huyện Củ Chi	Huyện	
+784	79	Hóc Môn	Huyện Hóc Môn	Huyện	
+785	79	Bình Chánh	Huyện Bình Chánh	Huyện	
+786	79	Nhà Bè	Huyện Nhà Bè	Huyện	
+787	79	Cần Giờ	Huyện Cần Giờ	Huyện	
+794	80	Tân An	Thành phố Tân An	Thành phố	
+795	80	Kiến Tường	Thị xã Kiến Tường	Thị xã	
+796	80	Tân Hưng	Huyện Tân Hưng	Huyện	
+797	80	Vĩnh Hưng	Huyện Vĩnh Hưng	Huyện	
+798	80	Mộc Hóa	Huyện Mộc Hóa	Huyện	
+799	80	Tân Thạnh	Huyện Tân Thạnh	Huyện	
+800	80	Thạnh Hóa	Huyện Thạnh Hóa	Huyện	
+801	80	Đức Huệ	Huyện Đức Huệ	Huyện	
+802	80	Đức Hòa	Huyện Đức Hòa	Huyện	
+803	80	Bến Lức	Huyện Bến Lức	Huyện	
+804	80	Thủ Thừa	Huyện Thủ Thừa	Huyện	
+805	80	Tân Trụ	Huyện Tân Trụ	Huyện	
+806	80	Cần Đước	Huyện Cần Đước	Huyện	
+807	80	Cần Giuộc	Huyện Cần Giuộc	Huyện	
+808	80	Châu Thành	Huyện Châu Thành	Huyện	
+815	82	Mỹ Tho	Thành phố Mỹ Tho	Thành phố	
+816	82	Gò Công	Thành phố Gò Công	Thành phố	
+817	82	Cai Lậy	Thị xã Cai Lậy	Thị xã	
+818	82	Tân Phước	Huyện Tân Phước	Huyện	
+819	82	Cái Bè	Huyện Cái Bè	Huyện	
+820	82	Cai Lậy	Huyện Cai Lậy	Huyện	
+821	82	Châu Thành	Huyện Châu Thành	Huyện	
+822	82	Chợ Gạo	Huyện Chợ Gạo	Huyện	
+823	82	Gò Công Tây	Huyện Gò Công Tây	Huyện	
+824	82	Gò Công Đông	Huyện Gò Công Đông	Huyện	
+825	82	Tân Phú Đông	Huyện Tân Phú Đông	Huyện	
+829	83	Bến Tre	Thành phố Bến Tre	Thành phố	
+831	83	Châu Thành	Huyện Châu Thành	Huyện	
+832	83	Chợ Lách	Huyện Chợ Lách	Huyện	
+833	83	Mỏ Cày Nam	Huyện Mỏ Cày Nam	Huyện	
+834	83	Giồng Trôm	Huyện Giồng Trôm	Huyện	
+835	83	Bình Đại	Huyện Bình Đại	Huyện	
+836	83	Ba Tri	Huyện Ba Tri	Huyện	
+837	83	Thạnh Phú	Huyện Thạnh Phú	Huyện	
+838	83	Mỏ Cày Bắc	Huyện Mỏ Cày Bắc	Huyện	
+842	84	Trà Vinh	Thành phố Trà Vinh	Thành phố	
+844	84	Càng Long	Huyện Càng Long	Huyện	
+845	84	Cầu Kè	Huyện Cầu Kè	Huyện	
+846	84	Tiểu Cần	Huyện Tiểu Cần	Huyện	
+847	84	Châu Thành	Huyện Châu Thành	Huyện	
+848	84	Cầu Ngang	Huyện Cầu Ngang	Huyện	
+849	84	Trà Cú	Huyện Trà Cú	Huyện	
+850	84	Duyên Hải	Huyện Duyên Hải	Huyện	
+851	84	Duyên Hải	Thị xã Duyên Hải	Thị xã	
+855	86	Vĩnh Long	Thành phố Vĩnh Long	Thành phố	
+857	86	Long Hồ	Huyện Long Hồ	Huyện	
+858	86	Mang Thít	Huyện Mang Thít	Huyện	
+859	86	Vũng Liêm	Huyện Vũng Liêm	Huyện	
+860	86	Tam Bình	Huyện Tam Bình	Huyện	
+861	86	Bình Minh	Thị xã Bình Minh	Thị xã	
+862	86	Trà Ôn	Huyện Trà Ôn	Huyện	
+863	86	Bình Tân	Huyện Bình Tân	Huyện	
+866	87	Cao Lãnh	Thành phố Cao Lãnh	Thành phố	
+867	87	Sa Đéc	Thành phố Sa Đéc	Thành phố	
+868	87	Hồng Ngự	Thành phố Hồng Ngự	Thành phố	
+869	87	Tân Hồng	Huyện Tân Hồng	Huyện	
+870	87	Hồng Ngự	Huyện Hồng Ngự	Huyện	
+871	87	Tam Nông	Huyện Tam Nông	Huyện	
+872	87	Tháp Mười	Huyện Tháp Mười	Huyện	
+873	87	Cao Lãnh	Huyện Cao Lãnh	Huyện	
+874	87	Thanh Bình	Huyện Thanh Bình	Huyện	
+875	87	Lấp Vò	Huyện Lấp Vò	Huyện	
+876	87	Lai Vung	Huyện Lai Vung	Huyện	
+877	87	Châu Thành	Huyện Châu Thành	Huyện	
+883	89	Long Xuyên	Thành phố Long Xuyên	Thành phố	
+884	89	Châu Đốc	Thành phố Châu Đốc	Thành phố	
+886	89	An Phú	Huyện An Phú	Huyện	
+887	89	Tân Châu	Thị xã Tân Châu	Thị xã	
+888	89	Phú Tân	Huyện Phú Tân	Huyện	
+889	89	Châu Phú	Huyện Châu Phú	Huyện	
+890	89	Tịnh Biên	Thị xã Tịnh Biên	Thị xã	
+891	89	Tri Tôn	Huyện Tri Tôn	Huyện	
+892	89	Châu Thành	Huyện Châu Thành	Huyện	
+893	89	Chợ Mới	Huyện Chợ Mới	Huyện	
+894	89	Thoại Sơn	Huyện Thoại Sơn	Huyện	
+899	91	Rạch Giá	Thành phố Rạch Giá	Thành phố	
+900	91	Hà Tiên	Thành phố Hà Tiên	Thành phố	
+902	91	Kiên Lương	Huyện Kiên Lương	Huyện	
+903	91	Hòn Đất	Huyện Hòn Đất	Huyện	
+904	91	Tân Hiệp	Huyện Tân Hiệp	Huyện	
+905	91	Châu Thành	Huyện Châu Thành	Huyện	
+906	91	Giồng Riềng	Huyện Giồng Riềng	Huyện	
+907	91	Gò Quao	Huyện Gò Quao	Huyện	
+908	91	An Biên	Huyện An Biên	Huyện	
+909	91	An Minh	Huyện An Minh	Huyện	
+910	91	Vĩnh Thuận	Huyện Vĩnh Thuận	Huyện	
+911	91	Phú Quốc	Thành phố Phú Quốc	Thành phố	
+912	91	Kiên Hải	Huyện Kiên Hải	Huyện	
+913	91	U Minh Thượng	Huyện U Minh Thượng	Huyện	
+914	91	Giang Thành	Huyện Giang Thành	Huyện	
+916	92	Ninh Kiều	Quận Ninh Kiều	Quận	
+917	92	Ô Môn	Quận Ô Môn	Quận	
+918	92	Bình Thủy	Quận Bình Thủy	Quận	
+919	92	Cái Răng	Quận Cái Răng	Quận	
+923	92	Thốt Nốt	Quận Thốt Nốt	Quận	
+924	92	Vĩnh Thạnh	Huyện Vĩnh Thạnh	Huyện	
+925	92	Cờ Đỏ	Huyện Cờ Đỏ	Huyện	
+926	92	Phong Điền	Huyện Phong Điền	Huyện	
+927	92	Thới Lai	Huyện Thới Lai	Huyện	
+930	93	Vị Thanh	Thành phố Vị Thanh	Thành phố	
+931	93	Ngã Bảy	Thành phố Ngã Bảy	Thành phố	
+932	93	Châu Thành A	Huyện Châu Thành A	Huyện	
+933	93	Châu Thành	Huyện Châu Thành	Huyện	
+934	93	Phụng Hiệp	Huyện Phụng Hiệp	Huyện	
+935	93	Vị Thủy	Huyện Vị Thủy	Huyện	
+936	93	Long Mỹ	Huyện Long Mỹ	Huyện	
+937	93	Long Mỹ	Thị xã Long Mỹ	Thị xã	
+941	94	Sóc Trăng	Thành phố Sóc Trăng	Thành phố	
+942	94	Châu Thành	Huyện Châu Thành	Huyện	
+943	94	Kế Sách	Huyện Kế Sách	Huyện	
+944	94	Mỹ Tú	Huyện Mỹ Tú	Huyện	
+945	94	Cù Lao Dung	Huyện Cù Lao Dung	Huyện	
+946	94	Long Phú	Huyện Long Phú	Huyện	
+947	94	Mỹ Xuyên	Huyện Mỹ Xuyên	Huyện	
+948	94	Ngã Năm	Thị xã Ngã Năm	Thị xã	
+949	94	Thạnh Trị	Huyện Thạnh Trị	Huyện	
+950	94	Vĩnh Châu	Thị xã Vĩnh Châu	Thị xã	
+951	94	Trần Đề	Huyện Trần Đề	Huyện	
+954	95	Bạc Liêu	Thành phố Bạc Liêu	Thành phố	
+956	95	Hồng Dân	Huyện Hồng Dân	Huyện	
+957	95	Phước Long	Huyện Phước Long	Huyện	
+958	95	Vĩnh Lợi	Huyện Vĩnh Lợi	Huyện	
+959	95	Giá Rai	Thị xã Giá Rai	Thị xã	
+960	95	Đông Hải	Huyện Đông Hải	Huyện	
+961	95	Hòa Bình	Huyện Hòa Bình	Huyện	
+964	96	Cà Mau	Thành phố Cà Mau	Thành phố	
+966	96	U Minh	Huyện U Minh	Huyện	
+967	96	Thới Bình	Huyện Thới Bình	Huyện	
+968	96	Trần Văn Thời	Huyện Trần Văn Thời	Huyện	
+969	96	Cái Nước	Huyện Cái Nước	Huyện	
+970	96	Đầm Dơi	Huyện Đầm Dơi	Huyện	
+971	96	Năm Căn	Huyện Năm Căn	Huyện	
+972	96	Phú Tân	Huyện Phú Tân	Huyện	
+973	96	Ngọc Hiển	Huyện Ngọc Hiển	Huyện	

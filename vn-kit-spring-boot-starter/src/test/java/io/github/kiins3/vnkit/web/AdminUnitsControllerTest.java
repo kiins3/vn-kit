@@ -70,6 +70,23 @@ class AdminUnitsControllerTest {
   }
 
   @Test
+  void convertsAnOldAddress() throws Exception {
+    mvc.perform(get("/api/vn/convert").param("address", "12 Trần Thái Tông, P. Dịch Vọng, Q. Cầu Giấy, Hà Nội"))
+        .andExpect(status().isOk())
+        .andExpect(jsonPath("$.address").value("12 Trần Thái Tông, Phường Cầu Giấy, Thành phố Hà Nội"))
+        .andExpect(jsonPath("$.exact").value(false))
+        .andExpect(jsonPath("$.candidates", hasSize(2)))
+        .andExpect(jsonPath("$.ward.code").value("00166"))
+        .andExpect(jsonPath("$.oldWardCode").value("00166"))
+        .andExpect(jsonPath("$.oldDistrictCode").value("005"));
+    mvc.perform(get("/api/vn/convert").param("ward", "Phường 12").param("district", "Tân Bình").param("province", "TP.HCM"))
+        .andExpect(jsonPath("$.ward.fullName").value("Phường Bảy Hiền"))
+        .andExpect(jsonPath("$.exact").value(true));
+    mvc.perform(get("/api/vn/convert").param("address", "Phường 1, TP.HCM")).andExpect(status().isNotFound());
+    mvc.perform(get("/api/vn/convert")).andExpect(status().isBadRequest());
+  }
+
+  @Test
   void errors() throws Exception {
     mvc.perform(get("/api/vn/provinces/00")).andExpect(status().isNotFound());
     mvc.perform(get("/api/vn/provinces/00/wards")).andExpect(status().isNotFound());

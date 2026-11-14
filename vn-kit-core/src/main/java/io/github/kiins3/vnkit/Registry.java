@@ -64,7 +64,7 @@ final class Registry {
   }
 
   /** Reads a tab-separated table and returns {dataset, decree} from its header comment. */
-  private static String[] read(String file, int columns, Consumer<String[]> row) {
+  static String[] read(String file, int columns, Consumer<String[]> row) {
     String[] meta = {"unknown", "unknown"};
     try (InputStream in = Registry.class.getResourceAsStream(file)) {
       if (in == null) throw new IllegalStateException("vn-kit data file missing: " + file);
