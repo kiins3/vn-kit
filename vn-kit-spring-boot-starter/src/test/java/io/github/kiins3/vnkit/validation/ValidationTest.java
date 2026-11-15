@@ -3,11 +3,14 @@ package io.github.kiins3.vnkit.validation;
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.assertj.core.api.Assertions.assertThatThrownBy;
 
+import io.github.kiins3.vnkit.PhoneType;
+import io.github.kiins3.vnkit.TaxCodeType;
 import jakarta.validation.ConstraintViolation;
 import jakarta.validation.Validation;
 import jakarta.validation.ValidationException;
 import jakarta.validation.Validator;
 import jakarta.validation.ValidatorFactory;
+import java.util.List;
 import java.util.Locale;
 import java.util.Set;
 import org.hibernate.validator.HibernateValidator;
@@ -98,6 +101,49 @@ class ValidationTest {
     Set<ConstraintViolation<AddressForm>> violations = VI.getValidator().validate(new AddressForm("79", "00004"));
     assertThat(violations).extracting(ConstraintViolation::getMessage)
         .containsExactly("không thuộc tỉnh/thành phố đã chọn");
+  }
+
+  record Customer(
+      @ValidPhoneNumber String phone,
+      @ValidPhoneNumber(PhoneType.MOBILE) String mobile,
+      @ValidCitizenId String citizenId,
+      @ValidTaxCode String taxCode,
+      @ValidTaxCode({TaxCodeType.MAIN, TaxCodeType.DEPENDENT}) String companyTaxCode) {}
+
+  static List<String> errors(Object bean) {
+    return validate(bean).stream().map(v -> v.getPropertyPath() + ": " + v.getMessage()).sorted().toList();
+  }
+
+  @Test
+  void validCustomer() {
+    assertThat(errors(new Customer("024 3825 1234", "+84 912 345 678", "079090001234", "079090001234", "0100109106-001")))
+        .isEmpty();
+    assertThat(errors(new Customer(null, null, null, null, null))).isEmpty();
+  }
+
+  @Test
+  void invalidCustomer() {
+    assertThat(errors(new Customer("0711234567", "0912", "003090001234", "0100109107", "abc")))
+        .containsExactly(
+            "citizenId: is not a valid citizen ID number",
+            "companyTaxCode: is not a valid tax code",
+            "mobile: is not a valid Vietnamese phone number",
+            "phone: is not a valid Vietnamese phone number",
+            "taxCode: is not a valid tax code");
+  }
+
+  @Test
+  void restrictedKinds() {
+    // A landline where a mobile is required, a personal ID where a company code is required.
+    assertThat(errors(new Customer(null, "024 3825 1234", null, null, "079090001234")))
+        .containsExactly("companyTaxCode: is not a valid tax code", "mobile: is not a valid Vietnamese phone number");
+  }
+
+  @Test
+  void vietnameseMessagesForIdentifiers() {
+    assertThat(VI.getValidator().validate(new Customer("1", null, "1", "1", null)))
+        .extracting(ConstraintViolation::getMessage)
+        .containsExactlyInAnyOrder("không phải số điện thoại hợp lệ", "không phải số căn cước hợp lệ", "không phải mã số thuế hợp lệ");
   }
 
   @Test
